@@ -3,11 +3,7 @@
 A new Flutter project.
 ![Image](https://github.com/user-attachments/assets/19c78e7b-da23-4cd0-ae03-0b38282807b5)
 ![Image](https://github.com/user-attachments/assets/8e0cfa69-fb48-49dd-a650-2000403411c5)
-
-![Image](https://github.com/user-attachments/assets/28433431
-
 ![Image](https://github.com/user-attachments/assets/6fbb9445-c93b-406a-95f8-0e7495c82223)
-
 ![Image](https://github.com/user-attachments/assets/15cbdddb-3bdb-440e-b553-920b5d18e131)
 
 ## Getting Started
