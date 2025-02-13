@@ -1,6 +1,7 @@
 # crypto_price_app
 
 A new Flutter project.
+![Image](https://github.com/user-attachments/assets/19c78e7b-da23-4cd0-ae03-0b38282807b5)
 
 ## Getting Started
 
